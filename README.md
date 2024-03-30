@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eskinder
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Natural Language Processing, Software Security, Runtime Systems, Language Extensibility, Computer Architecture, and Cloud Computing.
 - 🌱 I’m currently learning Dart, Rust and Go
-- 💞️ I’m looking to collaborate on efitsum@hawk.iit.edu
+- 💞️ I’m looking to collaborate on romha223@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reading comicbooks.
 
