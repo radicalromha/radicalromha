@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dart, Rust and Go
 - 💞️ I’m looking to collaborate on romha223@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy reading comicbooks.
+- ⚡ Fun fact: I have a comicbook collection.
 
 <!---
 efitsum/efitsum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
